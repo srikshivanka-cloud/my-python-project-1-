@@ -41,7 +41,7 @@ import sys         # Importing namespaces (sys used if we want to exit early)
 from typing import Dict, List, Tuple  # For type hints (clarity)
 
 # Configurable filenames (change if you want)
-INPUT_FILENAME = "cps109_a1_input.txt"
+INPUT_FILENAME = "Cricket_Player_Performance_Analyzer_input.txt"
 OUTPUT_FILENAME = "Cricket_Player_Performance_Analyzer_output.txt"
 
 # Data structures:
