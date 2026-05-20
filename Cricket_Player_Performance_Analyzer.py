@@ -42,7 +42,7 @@ from typing import Dict, List, Tuple  # For type hints (clarity)
 
 # Configurable filenames (change if you want)
 INPUT_FILENAME = "cps109_a1_input.txt"
-OUTPUT_FILENAME = "cps109_a1_output.txt"
+OUTPUT_FILENAME = "Cricket_Player_Performance_Analyzer_output.txt"
 
 # Data structures:
 # players: Dict[str, List[Tuple[int, int, int]]]
