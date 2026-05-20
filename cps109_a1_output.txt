@@ -1,0 +1,18 @@
+Cricket Player Performance Analyzer - Detailed Report
+----------------------------------------------------
+
+Total players: 6
+
+Rohit: Runs=147, Balls=117, Innings=2, Avg=73.50, SR=125.64, Ht=102, 50s=0, 100s=1, Ducks=0
+Srikshitha: Runs=132, Balls=68, Innings=2, Avg=66.00, SR=194.12, Ht=67, 50s=2, 100s=0, Ducks=0
+Kohli: Runs=100, Balls=79, Innings=2, Avg=50.00, SR=126.58, Ht=78, 50s=1, 100s=0, Ducks=0
+Akku: Runs=79, Balls=32, Innings=2, Avg=39.50, SR=246.88, Ht=56, 50s=1, 100s=0, Ducks=0
+Dhoni: Runs=56, Balls=40, Innings=1, Avg=56.00, SR=140.00, Ht=56, 50s=1, 100s=0, Ducks=0
+Siri: Runs=23, Balls=12, Innings=1, Avg=23.00, SR=191.67, Ht=23, 50s=0, 100s=0, Ducks=0
+
+Top 5 by Runs:
+  Rohit - 147 runs, Avg 73.50, SR 125.64
+  Srikshitha - 132 runs, Avg 66.00, SR 194.12
+  Kohli - 100 runs, Avg 50.00, SR 126.58
+  Akku - 79 runs, Avg 39.50, SR 246.88
+  Dhoni - 56 runs, Avg 56.00, SR 140.00

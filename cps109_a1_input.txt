@@ -1,0 +1,11 @@
+Player,Runs,Balls,NotOut
+Srikshitha,67,23,0
+Akku, 56,12,0
+Rohit,45,32,0
+Kohli,78,61,0
+Dhoni,56,40,1
+Srikshitha,65,45,0
+Akku, 23,20,0
+Rohit,102,85,0
+Kohli,22,18,0
+Siri,23,12,0
